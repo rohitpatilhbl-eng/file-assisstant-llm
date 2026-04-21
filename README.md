@@ -130,6 +130,20 @@ Create summary resume1.txt
 
 ---
 
+## Environment Setup
+
+This project requires an OpenAI API key.
+
+1. Create a `.env` file in the root directory
+2. Add your API key:
+
+OPENAI_API_KEY=your_api_key_here
+
+3. Save the file and run the project
+
+    Note: The `.env` file is not included in the repository for security reasons.
+---
+
 ##  Conclusion
 
 This project showcases how LLMs can be combined with traditional programming to build intelligent, real-world applications.
