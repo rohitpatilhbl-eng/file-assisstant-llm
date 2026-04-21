@@ -1,0 +1,3 @@
+Name: Sneha
+Skills: Python, Machine Learning, NLP
+Experience: 1 year
