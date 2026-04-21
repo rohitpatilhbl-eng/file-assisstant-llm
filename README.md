@@ -52,7 +52,7 @@ llm-file-assistant/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/llm-file-assistant.git
+git clone https://github.com/rohitpatilhbl-eng/file-assisstant-llm.git
 cd llm-file-assistant
 ```
 
@@ -117,11 +117,6 @@ Create summary resume1.txt
 * PyPDF2
 * python-dotenv
 
----
-
-##  Demo
-
-(Attach your demo video link here)
 
 ---
 
